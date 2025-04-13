@@ -1,3 +1,6 @@
+This is the Final project to Achieve IBM "Introduction-to-Git-and-GitHub" Badge and Certification
+
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
